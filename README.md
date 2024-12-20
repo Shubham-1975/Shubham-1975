@@ -10,9 +10,9 @@ Fork on GitHub
 <h1 align="center">Hi 👋, I'm Shubham Rawat</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 🌱 I’m currently learning **NODE JS**
+- 🌱 I’m currently learning **next js**
 
-- 💬 Ask me about **react , java ,c++ , javascript ,c**
+- 💬 Ask me about **react,node js, java ,c++ , javascript ,c**
 
 - 📫 How to reach me **shu06112003@gmail.com**
 
